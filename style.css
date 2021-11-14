@@ -1,0 +1,27 @@
+body{
+
+    background-color: #138D75;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container{
+
+    color: #DAF7A6
+    
+}
+
+#digit{
+
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    margin:0px;
+}
+
+.btn{
+
+}
